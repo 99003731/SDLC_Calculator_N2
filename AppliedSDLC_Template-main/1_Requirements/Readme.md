@@ -42,6 +42,9 @@
 | --- | --- | --- |
 | 1 | Physics Calculations | Implemented |
 | 2 | Profit and Loss Calculation | Implemented |
+| 3|Matrix operations mode.| Implemented |
+| 4|Combinatorics mode (for permutations and combinations).| Implemented |
+| 5|Basic arithmetic operations mode.| Implemented |
 
   ## Low Level Requirements
 
@@ -56,3 +59,21 @@
 | 7 | Profit calculator | Implemented |
 | 8 | Loss calculator | Implemented |
 | 9 | Discount calculator | Implemented |
+
+| 10| Arithmetic Functions |Implemented|
+| |(i) Addition| |
+| |(ii) Subtraction| |
+| |(iii) Multiplication| |
+| |iv) Divide (divide by zero)| |
+| |(v) precision fractional digits display | | 
+| |(vi)Modulo()| |
+|12| Matrix Functions|Future|
+| |(i) Determinant calculation| |
+| |(ii) Matrix inversion | |
+| |(iii) Editing matrix| |
+| |(iv) Matrix addition, subtraction| |
+| |(v) Matrix multiplication | |
+| |(vi) Matrix row and column sum.| |
+|13|Combinatorics operation|Implemented|
+| |(i) Permutations| |
+| |(ii) Combinations| |
