@@ -36,11 +36,23 @@
 **we are going to make functions the necessary physics phenomena’s which are difficult to calculate manually.**
 
 # Detail requirements
-## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future) |
+## High Level Requirements
 
+| **ID** | **Requirements** | **Status** |
+| --- | --- | --- |
+| 1 | Physics Calculations | Implemented |
+| 2 | Profit and Loss Calculation | Implemented |
 
-##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+  ## Low Level Requirements
+
+| **ID** | **Requirements** | **Status** | 
+| --- | --- | --- |
+| 1 | Acceleration calculator | Implemented | 
+| 2 | Capacitive reactance calculator | Implemented |
+| 3 | Circular velocity calculator | Implemented |
+| 4 | Coulombs law calculator | Implemented |
+| 5 | Gravitational force calculator | Implemented |
+| 6 | Projectile motion calculator | Implemented |
+| 7 | Profit calculator | Implemented |
+| 8 | Loss calculator | Implemented |
+| 9 | Discount calculator | Implemented |
